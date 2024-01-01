@@ -1,0 +1,17 @@
+/* Add your CSS styles */
+.loading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .loading p {
+    margin-right: 10px;
+    font-weight: bold;
+    font-size: 18px;
+    color: #333;
+  }
+  
+  /* Add your loading animation styles */
+  
